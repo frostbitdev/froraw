@@ -1,0 +1,28 @@
+{
+  "walls": [
+    {
+      "author": "BlurWalls",
+      "url": "http://i.imgur.com/N0luSzR.jpg?1",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image407704.jpg",
+      "name": "Wallpaper 1"
+    },
+    {
+      "author": "BlurWalls",
+      "url": "http://i.imgur.com/EvfRCW0.jpg",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image407706.jpg",
+      "name": "Wallpaper 2"
+    },
+    {
+      "author": "MaterialWalls",
+      "url": "http://i.imgur.com/aZlqiAT.png",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402410.png",
+      "name": "Wallpaper 3"
+    },
+    {
+      "author": "MaterialWalls",
+      "url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402411.png",
+      "name": "Wallpaper 4"
+    }
+  ]
+}

@@ -2,44 +2,19 @@
 "wallpapers": 
 	[
 		{
-			"author": "BlurWalls",
+			"author": "Someone",
 			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-			"name": "wallA"
+			"name": "ShotA"
 		},
 		{
-			"author": "BlurWalls",
-			"url": "http://i.imgur.com/YlRPQyu.png",
-			"name": "wallB"
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+			"name": "ShotB"
 		},
 		{
-			"author": "BlurWalls",
-			"url": "http://i.imgur.com/v2RB5zL.png",
-			"name": "wallC"
-		}
-		{
-			"author": "BlurWalls",
-			"url": "http://i.imgur.com/jyQSL7z.png",
-			"name": "wallD"
-		}
-		{
-			"author": "BlurWalls",
-			"url": "http://i.imgur.com/eS110aK.png",
-			"name": "wallE"
-		}
-		{
-			"author": "BlurWalls",
-			"url": "http://i.imgur.com/hNGz6fg.png",
-			"name": "wallF"
-		}
-		{
-			"author": "BlurWalls",
-			"url": "http://i.imgur.com/D0HlYJ7.png",
-			"name": "wallG"
-		}
-		{
-			"author": "BlurWalls",
-			"url": "http://i.imgur.com/5sX4UWF.png",
-			"name": "wallH"
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+			"name": "ShotC"
 		}
 	]
 }

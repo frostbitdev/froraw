@@ -3,43 +3,43 @@
 	[
 		{
 			"author": "BlurWalls",
-			"url": "http://i.imgur.com/BMmSKoP.png",
-			"name": "wall1"
+			"url": "https://i.imgur.com/BMmSKoP.png",
+			"name": "wallA"
 		},
 		{
 			"author": "BlurWalls",
 			"url": "http://i.imgur.com/YlRPQyu.png",
-			"name": "wall2"
+			"name": "wallB"
 		},
 		{
 			"author": "BlurWalls",
 			"url": "http://i.imgur.com/v2RB5zL.png",
-			"name": "wall3"
+			"name": "wallC"
 		}
 		{
 			"author": "BlurWalls",
 			"url": "http://i.imgur.com/jyQSL7z.png",
-			"name": "wall4"
+			"name": "wallD"
 		}
 		{
 			"author": "BlurWalls",
 			"url": "http://i.imgur.com/eS110aK.png",
-			"name": "wall5"
+			"name": "wallE"
 		}
 		{
 			"author": "BlurWalls",
 			"url": "http://i.imgur.com/hNGz6fg.png",
-			"name": "wall6"
+			"name": "wallF"
 		}
 		{
 			"author": "BlurWalls",
 			"url": "http://i.imgur.com/D0HlYJ7.png",
-			"name": "wall7"
+			"name": "wallG"
 		}
 		{
 			"author": "BlurWalls",
 			"url": "http://i.imgur.com/5sX4UWF.png",
-			"name": "wall8"
+			"name": "wallH"
 		}
 	]
 }

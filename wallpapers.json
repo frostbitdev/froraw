@@ -2,19 +2,44 @@
 "wallpapers": 
 	[
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-			"name": "ShotA"
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/BMmSKoP.png",
+			"name": "wallA"
 		},
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-			"name": "ShotB"
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/YlRPQyu.png",
+			"name": "wall2"
 		},
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-			"name": "ShotC"
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/v2RB5zL.png",
+			"name": "wall3"
+		}
+		{
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/jyQSL7z.png",
+			"name": "wall4"
+		}
+		{
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/eS110aK.png",
+			"name": "wall5"
+		}
+		{
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/hNGz6fg.png",
+			"name": "wall6"
+		}
+		{
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/D0HlYJ7.png",
+			"name": "wall7"
+		}
+		{
+			"author": "BlurWalls",
+			"url": "http://i.imgur.com/5sX4UWF.png",
+			"name": "wall8"
 		}
 	]
 }
